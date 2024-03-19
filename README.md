@@ -127,19 +127,7 @@ $ echo "create User" | ./console.py
 $ echo "help" | ./console.py
 ```
 
-The program will create a file called: `file.json` whenever you create a new model, it'll be store in the top folder.
-
-## Examples
-
-Executing help command.
-
-![Help](https://github.com/daorejuela1/AirBnB_clone/blob/master/images/help.gif)
-
-Getting help for a command
-
-![Help update](https://github.com/daorejuela1/AirBnB_clone/blob/master/images/help%20update.gif)
-
-Creating a new user, showing the ID and updating the fields
+The program will create a fim
 
 ![Create & Update](https://github.com/daorejuela1/AirBnB_clone/blob/master/images/create%20user%20and%20update.gif)
 
